@@ -5,4 +5,3 @@ jupyterlab==4.0.10
 numpy
 pandas
 matplotlib
-https://mybinder.org/v2/gh/JulianRomero22/Ministerio/main?urlpath=voila/render/Caja_Chica_13_8.ipynb
