@@ -1,0 +1,9 @@
+google-auth>=2.0
+ipython>=8.0
+ipywidgets>=8.0
+matplotlib>=3.5
+pandas>=1.5
+seaborn>=0.12
+voila>=0.5.5
+gdown>=5.0
+openpyxl>=3.1
